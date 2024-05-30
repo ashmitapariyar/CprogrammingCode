@@ -1,0 +1,25 @@
+package CRUD;
+
+
+
+public calss Calculator {
+
+int num1,num2
+int add()
+}
+
+}
+int subtarct()
+{
+
+}
+int multiply()
+{
+
+}
+double divide()
+{
+
+}
+public static void main(String[] args) {
+Scanner scanner= new Scannner
